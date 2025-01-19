@@ -70,6 +70,10 @@ This creates a volume named `pda-data` to persist the default SQLite database wi
 
 You can then access PowerDNS-Admin by pointing your browser to http://localhost:9191.
 
+## Authentication via OpenID
+Authentication with Authentik works fine using OpenID
+![image](docs/screenshots/OpenID.png)
+
 ## Screenshots
 
 ![dashboard](docs/screenshots/dashboard.png)
